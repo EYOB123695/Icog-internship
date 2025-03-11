@@ -1,4 +1,4 @@
-# core/infrastructure/user_repository.py 
+ 
 from core.models import UserModel
 
 from core.domain.user import User

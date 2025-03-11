@@ -1,4 +1,4 @@
-# core/application/user_service.py
+
 from core.domain.user import User
 from core.infrastructure.user_repository import UserRepository
 

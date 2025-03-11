@@ -1,4 +1,4 @@
-# core/domain/user.py
+
 from dataclasses import dataclass
 
 @dataclass
